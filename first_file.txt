@@ -1,2 +1,3 @@
 First time using git, excited! update ...
 git 再次修改
+CHANGE
